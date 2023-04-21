@@ -1,0 +1,17 @@
+p {
+  font-size: 13px;
+}
+span {
+  font-size: 12px;
+}
+
+.text-italic {
+  font-style: italic;
+}
+.Div-One-Button-One {
+  padding: 1px 10px;
+}
+.Row-Background-Color {
+  background-color: rgb(13, 16, 23);
+  object-fit: cover;
+}
